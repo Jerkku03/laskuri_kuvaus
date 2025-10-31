@@ -26,3 +26,11 @@ Kirjautuminen toimii token perusteisesti hyödyntäen jwt kirjastoa, tallentaen 
 ## Tiedostorakenne
 
 <img alt='image' src='./rakenne.png'/>
+
+## Sivun rakenne
+
+<img alt='image' src='./site.png'/>
+
+## tietokannan kuvaus
+
+<img alt='image' src='./db.png'/>
