@@ -21,7 +21,7 @@ Frontend toimii react vitellä, hyödyntäen react routeria. Tilanhallinta on to
 
 Kirjautuminen toimii token perusteisesti hyödyntäen jwt kirjastoa, tallentaen tokenin frontissa lokalstorageen tunnin aikarajalla. Salasana hashatty bcrypt kirjastolla. 
 
-<img alt='image' src='./tokenKirjautuminen.png'/>
+<img alt='image' src='./image.png'/>
 
 ## Tiedostorakenne
 
